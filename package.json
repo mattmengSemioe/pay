@@ -1,0 +1,20 @@
+{
+  "name": "wx-pay",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "^2.5.7",
+    "express": "~4.15.5",
+    "morgan": "~1.9.0",
+    "random-of": "0.0.1",
+    "request": "^2.85.0",
+    "serve-favicon": "~2.4.5",
+    "urllib": "^2.26.0",
+    "xml": "^1.0.1",
+    "xml2js": "^0.4.19"
+  }
+}
