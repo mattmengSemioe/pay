@@ -1,7 +1,5 @@
 # 微信支付&&支付宝支付 for nodejs
 
-[![travis][travis]][travis-u] [![npm][npm]][npm-u] [![node][node]][node-u] [![issues][issues]][issues-u] [![commit][commit]][commit-u]
-
 ## 使用说明
 #### 版本
 nodejs>=8.3
